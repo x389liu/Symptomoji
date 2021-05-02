@@ -8,12 +8,11 @@ A simple and visually focused mobile app for patients to describe their symptoms
 
 Crystal (Yunfan) Zhang
 
-Suri Xiang
+[Mavis (Xinyu) Liu](https://github.com/x389liu)
+
+[Suri Xiang](https://github.com/Suri-Xiang)
 
 Tiffany (Yuwen) Huang
-
-[Xinyu Mavis Liu](https://github.com/x389liu)
-
 
 Yifan Zhou
 
